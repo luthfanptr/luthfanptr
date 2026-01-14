@@ -21,5 +21,4 @@ An Computer Science student at Esa Unggul University with a growing interest in 
 ![https://www.linkedin.com/in/luthfanputra/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
 
-### 📈 My GitHub Statistics
-![Luthfan's GitHub stats](https://github-readme-stats.vercel.app/api?username=luthfanptr&show_icons=true)
+![luthfan's GitHub stats](https://github-readme-stats.vercel.app/api?username=luthfanptr&show_icons=true)
