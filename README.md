@@ -22,4 +22,4 @@ An Computer Science student at Esa Unggul University with a growing interest in 
 
 
 ### 📈 My GitHub Statistics
-![luthfanptr's GitHub stats](https://github-readme-stats.vercel.app/api?username=luthfanptr&show_icons=true)
+[![luthfanptr's GitHub stats](https://github-readme-stats.vercel.app/api?username=luthfanptr)](https://github.com/luthfanptr/github-readme-stats)
