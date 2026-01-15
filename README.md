@@ -1,6 +1,7 @@
 ![GitHub Header](img/github-header-banner.png)
 
-An Computer Science student at Esa Unggul University with a growing interest in software development and machine learning.
+### 💫 About Me
+I'm an Computer Science student at Esa Unggul University with a growing interest in software development and machine learning.
 
 
 ### 💻 Familiar With:
@@ -17,5 +18,5 @@ An Computer Science student at Esa Unggul University with a growing interest in 
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
 
 
-### 🔎 Social Media
+### 🔎 Reach Me On:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luthfanputra/)
