@@ -20,3 +20,8 @@ I'm an Computer Science student at Esa Unggul University with a growing interest
 
 ### 🔎 Reach Me On:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luthfanputra/)
+
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-rlqr.vercel.app?user=luthfanptr&theme=dark" />
+    <img src="https://github-readme-streak-stats-rlqr.vercel.app?user=luthfanptr&theme=default" />
+</picture>
