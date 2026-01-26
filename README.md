@@ -22,31 +22,21 @@ I'm an Computer Science student at Esa Unggul University with a growing interest
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luthfanputra/)
 
 ### 📊 My Stats:
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-rlqr.vercel.app?user=luthfanptr&theme=dark" />
-    <img src="https://github-readme-streak-stats-rlqr.vercel.app?user=luthfanptr&theme=default" />
-</picture>
 <div align="center">
 
-  <a href="https://git.io/streak-stats">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-rlqr.vercel.app?user=luthfanptr&theme=dark">
-      <img src="https://github-readme-streak-stats-rlqr.vercel.app?user=luthfanptr&theme=default" alt="GitHub Streak" />
-    </picture>
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=luthfanptr&show_icons=true&theme=dark">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=luthfanptr&show_icons=true&theme=default" alt="Stats">
+  </picture><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=luthfanptr&layout=compact&theme=dark">
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luthfanptr&layout=compact&theme=default" alt="Languages">
+  </picture>
 
-  <br> <a href="https://github.com/anuraghazra/github-readme-stats">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=luthfanptr&show_icons=true&theme=dark">
-      <img height="180" src="https://github-readme-stats.vercel.app/api?username=luthfanptr&show_icons=true&theme=default" alt="GitHub Stats">
-    </picture>
-  </a>
+  <br> <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-rlqr.vercel.app?user=luthfanptr&theme=dark">
+    <img src="https://github-readme-streak-stats-rlqr.vercel.app?user=luthfanptr&theme=default" alt="Streak">
+  </picture>
 
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=luthfanptr&layout=compact&theme=dark">
-      <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luthfanptr&layout=compact&theme=default" alt="Top Languages">
-    </picture>
-  </a>
+</div>
 
 </div>
